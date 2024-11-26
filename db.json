@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "id": 1,
+      "prompt": "What is programming?",
+      "response": "Programming is the process of creating software by writing instructions in a language that computers understand."
+    },
+    {
+      "id": 2,
+      "prompt": "How to use an API?",
+      "response": "An API can be used by sending requests to its endpoints and processing the responses as per its documentation."
+    }
+  ]
+}
